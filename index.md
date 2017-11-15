@@ -1,3 +1,4 @@
 # ehlems96.github.io
 This is my image
-https://360.vizor.io/v/k4n4
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/nolr" ></script>
