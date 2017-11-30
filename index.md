@@ -7,7 +7,7 @@ This is my image
 
 ###Camera Effects
 
-![filter](untitled (4).png?raw=true "Optional Title")
+![filter](Stars.png?raw=true "Optional Title")
 
 
 
