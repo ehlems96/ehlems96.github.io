@@ -7,7 +7,7 @@ This is my image
 
 ###Camera Effects
 
-![filter](untitled(4).jng?raw=true "hanging with the stars")
+![filter](untitled(4).png?raw=true "hanging with the stars")
 
 
 
